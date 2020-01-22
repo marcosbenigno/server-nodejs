@@ -1,1 +1,1 @@
-Server using Node.js and database SQL Server.
+Server using Node.js and SQL Server database.
